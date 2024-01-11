@@ -1,0 +1,3 @@
+[submodule "CalendarApi"]
+	path = CalendarApi
+	url = git@github.com:rinkaaan/CalendarApi.git
